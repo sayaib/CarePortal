@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m9lnKGP5WUmUTbR3E64s+as/kezRnZmJUzjtdddi/6w=",
+  "Source": "CarePortal.Api",
+  "BasePath": "_content/CarePortal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
