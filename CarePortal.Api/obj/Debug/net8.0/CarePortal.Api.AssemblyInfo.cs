@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarePortal.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c338630903e8b3aee36cb54b7902bb3d1aac449")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+984e82d6b6c031fcf032936c17279ca129121184")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarePortal.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarePortal.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
