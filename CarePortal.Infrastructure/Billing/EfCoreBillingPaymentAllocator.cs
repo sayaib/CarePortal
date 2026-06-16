@@ -27,6 +27,17 @@ public sealed class EfCoreBillingPaymentAllocator : IBillingPaymentAllocator
             throw new ArgumentOutOfRangeException(nameof(paymentAmount), paymentAmount, "Payment amount must be greater than zero.");
         }
 
+        var strategy = _dbContext.Database.CreateExecutionStrategy();
+
+        return await strategy.ExecuteAsync(async () =>
+        {
+            return await AllocatePaymentInSerializableTransaction(invoiceId, paymentAmount, receivedAt);
+        });
+    }
+
+    private async Task<decimal> AllocatePaymentInSerializableTransaction(Guid invoiceId, decimal paymentAmount, DateTime receivedAt)
+    {
+        _dbContext.ChangeTracker.Clear();
         await using var transaction = await _dbContext.Database.BeginTransactionAsync(IsolationLevel.Serializable);
 
         var invoiceExists = await _dbContext.Invoices

@@ -18,7 +18,10 @@ public static class DependencyInjection
 
         services.AddDbContext<CarePortalDbContext>(options =>
             options.UseNpgsql(connectionString, npgsql =>
-                npgsql.MigrationsAssembly(typeof(CarePortalDbContext).Assembly.FullName)));
+            {
+                npgsql.MigrationsAssembly(typeof(CarePortalDbContext).Assembly.FullName);
+                npgsql.EnableRetryOnFailure();
+            }));
 
         services.AddScoped<IPatientRepository, PatientRepository>();
         services.AddScoped<IBillingPaymentAllocator, EfCoreBillingPaymentAllocator>();

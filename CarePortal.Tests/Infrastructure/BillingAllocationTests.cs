@@ -24,22 +24,12 @@ public sealed class BillingAllocationTests
 
         var allocations = await fixture.DbContext.LedgerEntries
             .Where(entry => entry.Type == LedgerEntryType.Allocation)
-            .OrderBy(entry => entry.CreatedAt)
             .ToListAsync();
+        var allocationsByLineItem = allocations.ToDictionary(entry => entry.LineItemId!.Value, entry => entry.Amount);
 
         Assert.Equal(50m, balance);
-        Assert.Collection(
-            allocations,
-            allocation =>
-            {
-                Assert.Equal(first.Id, allocation.LineItemId);
-                Assert.Equal(100m, allocation.Amount);
-            },
-            allocation =>
-            {
-                Assert.Equal(second.Id, allocation.LineItemId);
-                Assert.Equal(25m, allocation.Amount);
-            });
+        Assert.Equal(100m, allocationsByLineItem[first.Id]);
+        Assert.Equal(25m, allocationsByLineItem[second.Id]);
     }
 
     [Fact]
