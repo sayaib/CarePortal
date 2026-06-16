@@ -1,4 +1,6 @@
-﻿using CarePortal.Application.Abstractions.Persistence;
+﻿using CarePortal.Application.Abstractions.Billing;
+using CarePortal.Application.Abstractions.Persistence;
+using CarePortal.Infrastructure.Billing;
 using CarePortal.Infrastructure.Persistence;
 using CarePortal.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -19,6 +21,7 @@ public static class DependencyInjection
                 npgsql.MigrationsAssembly(typeof(CarePortalDbContext).Assembly.FullName)));
 
         services.AddScoped<IPatientRepository, PatientRepository>();
+        services.AddScoped<IBillingPaymentAllocator, EfCoreBillingPaymentAllocator>();
         services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<CarePortalDbContext>());
 
         return services;

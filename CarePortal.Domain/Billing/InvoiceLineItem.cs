@@ -17,14 +17,14 @@ public sealed class InvoiceLineItem : Entity
         Description = description.Trim();
         DueDate = dueDate;
         Amount = amount;
-        CreatedAt = DateTimeOffset.UtcNow;
+        CreatedAt = DateTime.UtcNow;
     }
 
     public Guid InvoiceId { get; private set; }
     public string Description { get; private set; }
     public DateOnly DueDate { get; private set; }
     public decimal Amount { get; private set; }
-    public DateTimeOffset CreatedAt { get; private set; }
+    public DateTime CreatedAt { get; private set; }
 
     public Invoice Invoice { get; private set; } = null!;
     public IReadOnlyCollection<LedgerEntry> LedgerEntries => _ledgerEntries.AsReadOnly();

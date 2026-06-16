@@ -15,11 +15,11 @@ public sealed class Invoice : Entity
     private Invoice(string reference)
     {
         Reference = reference.Trim();
-        CreatedAt = DateTimeOffset.UtcNow;
+        CreatedAt = DateTime.UtcNow;
     }
 
     public string Reference { get; private set; }
-    public DateTimeOffset CreatedAt { get; private set; }
+    public DateTime CreatedAt { get; private set; }
 
     public IReadOnlyCollection<InvoiceLineItem> LineItems => _lineItems.AsReadOnly();
     public IReadOnlyCollection<LedgerEntry> LedgerEntries => _ledgerEntries.AsReadOnly();
