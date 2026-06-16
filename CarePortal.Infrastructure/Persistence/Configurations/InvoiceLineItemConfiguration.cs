@@ -43,7 +43,7 @@ public sealed class InvoiceLineItemConfiguration : IEntityTypeConfiguration<Invo
         builder.HasMany(lineItem => lineItem.LedgerEntries)
             .WithOne(entry => entry.LineItem)
             .HasForeignKey(entry => entry.LineItemId)
-            .OnDelete(DeleteBehavior.SetNull);
+            .OnDelete(DeleteBehavior.Restrict);
 
         builder.Navigation(lineItem => lineItem.LedgerEntries)
             .UsePropertyAccessMode(PropertyAccessMode.Field);

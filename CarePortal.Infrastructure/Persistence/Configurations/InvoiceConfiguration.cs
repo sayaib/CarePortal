@@ -36,7 +36,7 @@ public sealed class InvoiceConfiguration : IEntityTypeConfiguration<Invoice>
         builder.HasMany(invoice => invoice.LedgerEntries)
             .WithOne(entry => entry.Invoice)
             .HasForeignKey(entry => entry.InvoiceId)
-            .OnDelete(DeleteBehavior.Cascade);
+            .OnDelete(DeleteBehavior.Restrict);
 
         builder.Navigation(invoice => invoice.LineItems)
             .UsePropertyAccessMode(PropertyAccessMode.Field);
