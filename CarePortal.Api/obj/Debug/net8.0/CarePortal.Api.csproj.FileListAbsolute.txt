@@ -114,3 +114,4 @@ D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Api\obj\Debug\net8.0
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Api\obj\Debug\net8.0\CarePortal.Api.pdb
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Api\obj\Debug\net8.0\CarePortal.Api.genruntimeconfig.cache
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Api\obj\Debug\net8.0\ref\CarePortal.Api.dll
+D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Api\obj\Debug\net8.0\CarePortal.Api.sourcelink.json

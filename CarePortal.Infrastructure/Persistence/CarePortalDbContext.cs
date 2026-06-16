@@ -1,4 +1,5 @@
 ﻿using CarePortal.Application.Abstractions.Persistence;
+using CarePortal.Domain.Billing;
 using CarePortal.Domain.Patients;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +13,9 @@ public sealed class CarePortalDbContext : DbContext, IUnitOfWork
     }
 
     public DbSet<Patient> Patients => Set<Patient>();
+    public DbSet<Invoice> Invoices => Set<Invoice>();
+    public DbSet<InvoiceLineItem> InvoiceLineItems => Set<InvoiceLineItem>();
+    public DbSet<LedgerEntry> LedgerEntries => Set<LedgerEntry>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

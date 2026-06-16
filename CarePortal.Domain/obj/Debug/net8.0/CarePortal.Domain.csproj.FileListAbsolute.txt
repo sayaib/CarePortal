@@ -9,3 +9,4 @@ D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Domain\obj\Debug\net
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Domain\obj\Debug\net8.0\refint\CarePortal.Domain.dll
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Domain\obj\Debug\net8.0\CarePortal.Domain.pdb
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Domain\obj\Debug\net8.0\ref\CarePortal.Domain.dll
+D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Domain\obj\Debug\net8.0\CarePortal.Domain.sourcelink.json

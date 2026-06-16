@@ -119,3 +119,4 @@ D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Application.pdb
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Domain.pdb
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Infrastructure.pdb
+D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.sourcelink.json

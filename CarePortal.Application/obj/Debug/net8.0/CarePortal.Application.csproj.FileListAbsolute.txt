@@ -13,3 +13,4 @@ D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Application\obj\Debu
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Application\obj\Debug\net8.0\refint\CarePortal.Application.dll
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Application\obj\Debug\net8.0\CarePortal.Application.pdb
 D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Application\obj\Debug\net8.0\ref\CarePortal.Application.dll
+D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Application\obj\Debug\net8.0\CarePortal.Application.sourcelink.json
