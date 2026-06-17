@@ -1,18 +1,15 @@
-﻿using CarePortal.Application.Abstractions.Persistence;
 using CarePortal.Domain.Billing;
-using CarePortal.Domain.Patients;
 using Microsoft.EntityFrameworkCore;
 
 namespace CarePortal.Infrastructure.Persistence;
 
-public sealed class CarePortalDbContext : DbContext, IUnitOfWork
+public sealed class CarePortalDbContext : DbContext
 {
     public CarePortalDbContext(DbContextOptions<CarePortalDbContext> options)
         : base(options)
     {
     }
 
-    public DbSet<Patient> Patients => Set<Patient>();
     public DbSet<Invoice> Invoices => Set<Invoice>();
     public DbSet<InvoiceLineItem> InvoiceLineItems => Set<InvoiceLineItem>();
     public DbSet<LedgerEntry> LedgerEntries => Set<LedgerEntry>();

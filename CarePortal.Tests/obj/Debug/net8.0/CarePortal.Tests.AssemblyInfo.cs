@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarePortal.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1695ec5adee567a37ecd7c18258d0e0a948488ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d37aba766a7b1b21f1e30420428be90fb34abd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarePortal.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarePortal.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

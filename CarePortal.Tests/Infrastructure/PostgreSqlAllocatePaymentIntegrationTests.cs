@@ -2,35 +2,16 @@ using CarePortal.Domain.Billing;
 using CarePortal.Infrastructure.Billing;
 using CarePortal.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
-using Testcontainers.PostgreSql;
 
 namespace CarePortal.Tests.Infrastructure;
 
-public sealed class PostgreSqlAllocatePaymentIntegrationTests : IAsyncLifetime
+public sealed class PostgreSqlAllocatePaymentIntegrationTests
 {
-    private readonly PostgreSqlContainer _postgres = new PostgreSqlBuilder()
-        .WithImage("postgres:16-alpine")
-        .WithDatabase("careportal_tests")
-        .WithUsername("postgres")
-        .WithPassword("postgres")
-        .Build();
-
-    public async Task InitializeAsync()
+    [LocalPostgreSqlFact]
+    public async Task AllocatePayment_RunsAgainstLocalPostgreSqlAndPersistsExpectedLedgerEntries()
     {
-        await _postgres.StartAsync();
+        await ResetDatabaseAsync();
 
-        await using var dbContext = CreateDbContext();
-        await dbContext.Database.MigrateAsync();
-    }
-
-    public async Task DisposeAsync()
-    {
-        await _postgres.DisposeAsync();
-    }
-
-    [DockerAvailableFact]
-    public async Task AllocatePayment_RunsAgainstPostgreSqlAndPersistsExpectedLedgerEntries()
-    {
         await using var seedContext = CreateDbContext();
         var invoice = Invoice.Create("PG-ALLOC-001");
         var first = invoice.AddLineItem("Line item 1", new DateOnly(2026, 1, 1), 100m);
@@ -74,9 +55,11 @@ public sealed class PostgreSqlAllocatePaymentIntegrationTests : IAsyncLifetime
         Assert.Equal(5, ledgerEntries.Count);
     }
 
-    [DockerAvailableFact]
-    public async Task AllocatePayment_RunsMigrationsAndLeavesDatabaseAtZeroBalanceForExactPayment()
+    [LocalPostgreSqlFact]
+    public async Task AllocatePayment_RunsMigrationsAgainstLocalPostgreSqlAndLeavesDatabaseAtZeroBalanceForExactPayment()
     {
+        await ResetDatabaseAsync();
+
         await using var seedContext = CreateDbContext();
         var invoice = Invoice.Create("PG-ALLOC-002");
         var first = invoice.AddLineItem("Line item 1", new DateOnly(2026, 1, 1), 100m);
@@ -116,9 +99,17 @@ public sealed class PostgreSqlAllocatePaymentIntegrationTests : IAsyncLifetime
     private CarePortalDbContext CreateDbContext()
     {
         var options = new DbContextOptionsBuilder<CarePortalDbContext>()
-            .UseNpgsql(_postgres.GetConnectionString(), npgsql => npgsql.EnableRetryOnFailure())
+            .UseNpgsql(LocalPostgreSqlSettings.ConnectionString, npgsql => npgsql.EnableRetryOnFailure())
             .Options;
 
         return new CarePortalDbContext(options);
+    }
+
+    private async Task ResetDatabaseAsync()
+    {
+        await using var dbContext = CreateDbContext();
+        await dbContext.Database.MigrateAsync();
+        await dbContext.Database.ExecuteSqlRawAsync(
+            "TRUNCATE TABLE ledger_entries, invoice_line_items, invoices RESTART IDENTITY CASCADE;");
     }
 }

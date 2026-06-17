@@ -1,8 +1,6 @@
-﻿using CarePortal.Application.Abstractions.Billing;
-using CarePortal.Application.Abstractions.Persistence;
+using CarePortal.Application.Abstractions.Billing;
 using CarePortal.Infrastructure.Billing;
 using CarePortal.Infrastructure.Persistence;
-using CarePortal.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,15 +15,9 @@ public static class DependencyInjection
             ?? throw new InvalidOperationException("Connection string 'DefaultConnection' is not configured.");
 
         services.AddDbContext<CarePortalDbContext>(options =>
-            options.UseNpgsql(connectionString, npgsql =>
-            {
-                npgsql.MigrationsAssembly(typeof(CarePortalDbContext).Assembly.FullName);
-                npgsql.EnableRetryOnFailure();
-            }));
+            options.UseSqlite(connectionString));
 
-        services.AddScoped<IPatientRepository, PatientRepository>();
         services.AddScoped<IBillingPaymentAllocator, EfCoreBillingPaymentAllocator>();
-        services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<CarePortalDbContext>());
 
         return services;
     }
