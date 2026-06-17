@@ -20,6 +20,8 @@ public sealed class Invoice : Entity
 
     public string Reference { get; private set; }
     public DateTime CreatedAt { get; private set; }
+    // Concurrency token for optimistic concurrency control
+    public byte[] RowVersion { get; private set; } = [];
 
     public IReadOnlyCollection<InvoiceLineItem> LineItems => _lineItems.AsReadOnly();
     public IReadOnlyCollection<LedgerEntry> LedgerEntries => _ledgerEntries.AsReadOnly();

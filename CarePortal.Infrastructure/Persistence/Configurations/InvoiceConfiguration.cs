@@ -28,6 +28,11 @@ public sealed class InvoiceConfiguration : IEntityTypeConfiguration<Invoice>
             .HasColumnName("created_at")
             .IsRequired();
 
+        builder.Property(invoice => invoice.RowVersion)
+            .HasColumnName("row_version")
+            .IsRowVersion()
+            .IsRequired();
+
         builder.HasMany(invoice => invoice.LineItems)
             .WithOne(lineItem => lineItem.Invoice)
             .HasForeignKey(lineItem => lineItem.InvoiceId)

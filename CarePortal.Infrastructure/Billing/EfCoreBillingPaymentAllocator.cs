@@ -40,14 +40,16 @@ public sealed class EfCoreBillingPaymentAllocator : IBillingPaymentAllocator
         _dbContext.ChangeTracker.Clear();
         await using var transaction = await _dbContext.Database.BeginTransactionAsync(IsolationLevel.Serializable);
 
-        var invoiceExists = await _dbContext.Invoices
-            .AsNoTracking()
-            .AnyAsync(invoice => invoice.Id == invoiceId);
+        var invoice = await _dbContext.Invoices
+            .FirstOrDefaultAsync(invoice => invoice.Id == invoiceId);
 
-        if (!invoiceExists)
+        if (invoice == null)
         {
             throw new InvalidOperationException($"Invoice '{invoiceId}' was not found.");
         }
+
+        // Mark the invoice as modified to trigger concurrency token check on save
+        _dbContext.Invoices.Update(invoice);
 
         _dbContext.LedgerEntries.Add(LedgerEntry.PaymentReceived(invoiceId, paymentAmount, receivedAt));
 
