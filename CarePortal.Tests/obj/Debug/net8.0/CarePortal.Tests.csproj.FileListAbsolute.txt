@@ -1,148 +1,295 @@
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_CarePortal.Tests
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\testhost.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\testhost.exe
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Tests.deps.json
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Tests.runtimeconfig.json
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Tests.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Tests.pdb
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\xunit.abstractions.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\xunit.assert.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\xunit.core.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.csproj.AssemblyReference.cache
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.GeneratedMSBuildEditorConfig.editorconfig
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.AssemblyInfoInputs.cache
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.AssemblyInfo.cs
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.csproj.CoreCompileInputs.cache
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePort.6F6CB9C5.Up2Date
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\refint\CarePortal.Tests.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.pdb
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.genruntimeconfig.cache
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\ref\CarePortal.Tests.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_CarePortal.Tests
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Npgsql.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Application.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Domain.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Infrastructure.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Application.pdb
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Domain.pdb
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\CarePortal.Infrastructure.pdb
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\obj\Debug\net8.0\CarePortal.Tests.sourcelink.json
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\SQLitePCLRaw.core.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
-D:\Company Assesment\LCK Services Ltd\CarePortal\CarePortal.Tests\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_CarePortal.Tests
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/testhost.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/testhost.exe
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.deps.json
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.runtimeconfig.json
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.pdb
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.assert.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.core.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.csproj.AssemblyReference.cache
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.AssemblyInfoInputs.cache
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.AssemblyInfo.cs
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.csproj.CoreCompileInputs.cache
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePort.6F6CB9C5.Up2Date
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/refint/CarePortal.Tests.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.pdb
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.genruntimeconfig.cache
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/ref/CarePortal.Tests.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_CarePortal.Tests
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.testadapter.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Npgsql.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Application.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Domain.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Infrastructure.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Application.pdb
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Domain.pdb
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Infrastructure.pdb
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.sourcelink.json
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+D:/Company Assesment/LCK Services Ltd/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_CarePortal.Tests
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_CarePortal.Tests
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.testadapter.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.deps.json
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.runtimeconfig.json
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Tests.pdb
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/testhost.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Npgsql.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.assert.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.core.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Application.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Domain.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Infrastructure.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Application.pdb
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Domain.pdb
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/bin/Debug/net8.0/CarePortal.Infrastructure.pdb
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.csproj.AssemblyReference.cache
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.AssemblyInfoInputs.cache
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.AssemblyInfo.cs
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.csproj.CoreCompileInputs.cache
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.sourcelink.json
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePort.6F6CB9C5.Up2Date
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/refint/CarePortal.Tests.dll
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.pdb
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/CarePortal.Tests.genruntimeconfig.cache
+/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/Debug/net8.0/ref/CarePortal.Tests.dll

@@ -65,6 +65,13 @@ public class BillingController : ControllerBase
         return Ok(new { NewBalance = newBalance });
     }
 
+    [HttpPost("ledger-entries/{id:guid}/reverse")]
+    public async Task<IActionResult> ReversePayment(Guid id, [FromBody] ReversePaymentRequest request)
+    {
+        var newBalance = await _paymentAllocator.ReversePayment(id, request.ReversedAt);
+        return Ok(new { NewBalance = newBalance });
+    }
+
     [HttpGet("invoices/{id:guid}/balance")]
     public async Task<IActionResult> GetInvoiceBalance(Guid id)
     {
@@ -78,15 +85,22 @@ public class BillingController : ControllerBase
             .AsNoTracking()
             .Where(entry =>
                 entry.InvoiceId == id &&
-                (entry.Type == LedgerEntryType.Allocation || entry.Type == LedgerEntryType.Credit))
+                (entry.Type == LedgerEntryType.Allocation || 
+                 entry.Type == LedgerEntryType.Credit ||
+                 entry.Type == LedgerEntryType.AllocationReversal ||
+                 entry.Type == LedgerEntryType.CreditReversal))
             .Select(entry => new { entry.Type, entry.Amount })
             .ToListAsync();
 
         var totalLineItemAmounts = lineItemAmounts.Sum();
+        
         var totalAllocations = ledgerEntries.Where(e => e.Type == LedgerEntryType.Allocation).Sum(e => e.Amount);
+        var totalAllocationReversals = ledgerEntries.Where(e => e.Type == LedgerEntryType.AllocationReversal).Sum(e => e.Amount);
+        
         var totalCredits = ledgerEntries.Where(e => e.Type == LedgerEntryType.Credit).Sum(e => e.Amount);
+        var totalCreditReversals = ledgerEntries.Where(e => e.Type == LedgerEntryType.CreditReversal).Sum(e => e.Amount);
 
-        var balance = totalLineItemAmounts - totalAllocations - totalCredits;
+        var balance = totalLineItemAmounts - (totalAllocations - totalAllocationReversals) - (totalCredits - totalCreditReversals);
         return Ok(new { Balance = balance });
     }
 
@@ -134,4 +148,9 @@ public class AllocatePaymentRequest
 {
     public decimal PaymentAmount { get; set; }
     public DateTime ReceivedAt { get; set; }
+}
+
+public class ReversePaymentRequest
+{
+    public DateTime ReversedAt { get; set; }
 }

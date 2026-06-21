@@ -66,6 +66,21 @@ public sealed class LedgerEntry : Entity
         return Create(invoiceId, null, LedgerEntryType.Credit, amount, creditedAt);
     }
 
+    public static LedgerEntry PaymentReversal(Guid invoiceId, decimal amount, DateTime reversedAt)
+    {
+        return Create(invoiceId, null, LedgerEntryType.PaymentReversal, amount, reversedAt);
+    }
+
+    public static LedgerEntry AllocationReversal(Guid invoiceId, Guid lineItemId, decimal amount, DateTime reversedAt)
+    {
+        return Create(invoiceId, lineItemId, LedgerEntryType.AllocationReversal, amount, reversedAt);
+    }
+
+    public static LedgerEntry CreditReversal(Guid invoiceId, decimal amount, DateTime reversedAt)
+    {
+        return Create(invoiceId, null, LedgerEntryType.CreditReversal, amount, reversedAt);
+    }
+
     private static LedgerEntry CreateCore(Guid invoiceId, Guid? lineItemId, LedgerEntryType type, decimal amount, DateTime createdAt)
     {
         if (invoiceId == Guid.Empty)

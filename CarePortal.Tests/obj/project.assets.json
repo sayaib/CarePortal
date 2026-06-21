@@ -2132,19 +2132,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "/Users/sayaibsarkar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Tests\\CarePortal.Tests.csproj",
+      "projectUniqueName": "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/CarePortal.Tests.csproj",
       "projectName": "CarePortal.Tests",
-      "projectPath": "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Tests\\CarePortal.Tests.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Tests\\obj\\",
+      "projectPath": "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/CarePortal.Tests.csproj",
+      "packagesPath": "/Users/sayaibsarkar/.nuget/packages/",
+      "outputPath": "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/sayaibsarkar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2156,14 +2156,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Application\\CarePortal.Application.csproj": {
-              "projectPath": "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Application\\CarePortal.Application.csproj"
+            "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Application/CarePortal.Application.csproj": {
+              "projectPath": "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Application/CarePortal.Application.csproj"
             },
-            "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Domain\\CarePortal.Domain.csproj": {
-              "projectPath": "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Domain\\CarePortal.Domain.csproj"
+            "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Domain/CarePortal.Domain.csproj": {
+              "projectPath": "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Domain/CarePortal.Domain.csproj"
             },
-            "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Infrastructure\\CarePortal.Infrastructure.csproj": {
-              "projectPath": "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Infrastructure\\CarePortal.Infrastructure.csproj"
+            "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Infrastructure/CarePortal.Infrastructure.csproj": {
+              "projectPath": "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Infrastructure/CarePortal.Infrastructure.csproj"
             }
           }
         }
@@ -2229,7 +2229,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.422/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

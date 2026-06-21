@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JueEqQ+UPb0=",
+  "dgSpecHash": "KTm4W+p0Av4=",
   "success": true,
-  "projectFilePath": "D:\\Company Assesment\\LCK Services Ltd\\CarePortal\\CarePortal.Application\\CarePortal.Application.csproj",
+  "projectFilePath": "/Users/sayaibsarkar/Documents/GitHub/CarePortal/CarePortal.Application/CarePortal.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+    "/Users/sayaibsarkar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }
